@@ -8,6 +8,9 @@ public class LearnWithPreviousApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LearnWithPreviousApiApplication.class, args);
+		
+		
+		System.out.println();
 	}
 
 }
